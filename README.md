@@ -7,13 +7,17 @@ Vitys Steeven Benavides Avila
 2. Prueba GET/Datasets:
 - Desde el curl
 <img width="1287" height="595" alt="get1" src="https://github.com/user-attachments/assets/c827fba6-2225-45c2-9693-5a02e0b3a1b2" />
+
 - Desde Chrome
+
 <img width="875" height="625" alt="getnav1" src="https://github.com/user-attachments/assets/397b4ead-a48a-4e80-b5ec-ffa4b260cb5c" />
 
 3. Prueba POST/Datasets
 - Desde curl
 <img width="831" height="67" alt="post1" src="https://github.com/user-attachments/assets/c9aed5e7-7fc3-4393-a596-0a2f98efedef" />
+
 -Desde Chrome
+
 <img width="543" height="246" alt="postnav1" src="https://github.com/user-attachments/assets/6cd8c990-a391-4057-8a80-052de450a1cc" />
 
 4. Conlusiones:
