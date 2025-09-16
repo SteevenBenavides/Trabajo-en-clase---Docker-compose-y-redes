@@ -20,7 +20,7 @@ Vitys Steeven Benavides Avila
 
 <img width="543" height="246" alt="postnav1" src="https://github.com/user-attachments/assets/6cd8c990-a391-4057-8a80-052de450a1cc" />
 
-4. Conlusiones:
+4. Conclusiones:
 
    - La primera y más importante es que me estoy ahogando en un vaso de agua.
 
